@@ -1,9 +1,6 @@
 # Cuarto-Semestre-TapitaCocaCola
 
 Java,python,Js,Node
-# Tapitacocacola1974-Tercer-Semestre
-
-
 <div align="center">
 <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" />
 </div>
