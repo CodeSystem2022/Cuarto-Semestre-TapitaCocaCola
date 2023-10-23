@@ -34,3 +34,5 @@ Java,python,Js,Node
 | :pencil: semana 8 |Grande Victoria Josefina|
 | :pencil: semana 9 |Perez Jose Roberto Emmanuel|
 | :pencil: semana 10 |Acosta Joaquin Avaro|
+| :pencil: semana 11 |Uriel Olguin|
+| :pencil: semana 12 |Lopez Maximiliano Exequiel|
