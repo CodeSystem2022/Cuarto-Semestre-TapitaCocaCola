@@ -1,0 +1,1 @@
+En esta clase, el profesor nos enseñó cómo crear un proyecto en Python desde la consola y cómo hacer un commit en Git. Además, también ejecutamos el proyecto desde la consola, lo cual me pareció fabuloso.
