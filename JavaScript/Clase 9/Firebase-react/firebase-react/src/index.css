@@ -1,0 +1,9 @@
+body {
+  margin: 0 auto; /* Agregado un espacio entre 0 y auto para especificar el margen horizontal */
+  width: 80%;
+}
+
+code {
+  font-family: 'source-code-pro', Menlo, Monaco, Consolas, 'Courier New', /* Agregado comillas a la fuente */
+  monospace; /* Esto puede ser innecesario, dependerá de tus necesidades */
+}
